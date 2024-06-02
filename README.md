@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+🌱 I’m currently learning how to leverage AI pair programming with GitHub Copilot, and refreshing my coding knowledge from a boot camp I did some time ago.
+
 <!--
 **Andreiadomz/Andreiadomz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
